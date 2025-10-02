@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyanDesai-code
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on games using godot
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to create more fun apps
 - 📫 How to reach me ayan.k.desai@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Chili Chicken is my favorite food
