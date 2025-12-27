@@ -1,14 +1,5 @@
-   ▄████████ ▄██   ▄      ▄████████ ███▄▄▄▄   
-  ███    ███ ███   ██▄   ███    ███ ███▀▀▀██▄ 
-  ███    ███ ███▄▄▄███   ███    ███ ███   ███ 
-  ███    ███ ▀▀▀▀▀▀███   ███    ███ ███   ███ 
-▀███████████ ▄██   ███ ▀███████████ ███   ███ 
-  ███    ███ ███   ███   ███    ███ ███   ███ 
-  ███    ███ ███   ███   ███    ███ ███   ███ 
-  ███    █▀   ▀█████▀    ███    █▀   ▀█   █▀  
-                                              
 - 👋 Hi, I’m @AyanDesai-code
-- 👀 I’m interested in AI
+- 👀 I’m interested in Pytorch
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to create more fun apps
 - 📫 How to reach me ayan.k.desai@gmail.com
